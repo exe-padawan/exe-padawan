@@ -1,5 +1,3 @@
-T## Hi there 👋
-
 <!-# 👋 Hey there, I'm Jett! 
 
 🎮 **Gamer** | 💻 **Coder** | 🔧 **Tech Aficionado**
