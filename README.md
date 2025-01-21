@@ -32,7 +32,7 @@ T## Hi there 👋
 
 <p align="center">
   <img src="mapache-pedro.gif" alt="Awesome GIF" width="150" />
-  <br>
   
+  <br>
   <b>Designed with ❤️ by Racoon</b>
 </p>
