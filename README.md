@@ -27,8 +27,8 @@ T## Hi there 👋
 ---
 
 ## Let's Build Something Awesome Together! 🚀🎉
--<p align="center">  
-  <img src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md/master/profile/badges/youtube.svg" alt="Raccoon Logo" width="30" />  
-  <br>  
-  <b>Designed with ❤️ by Racoon</b>  
+<p align="center">
+  <img src="mapache-pedro.gif" alt="Awesome GIF" width="300" />
+  <br>
+  <b>Designed with ❤️ by Racoon</b>
 </p>
