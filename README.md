@@ -28,8 +28,7 @@ T## Hi there 👋
 
 ## Let's Build Something Awesome Together! 🚀🎉
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=exe-padawan)](https://github.com/anuraghazra/github-readme-stats)
-
+![jett's GitHub stats](https://github-readme-stats.vercel.app/api?username=exe-padawn&show_icons=true&theme=dark)
 
 <p align="center">
   <img src="mapache-pedro.gif" alt="Awesome GIF" width="150" />
